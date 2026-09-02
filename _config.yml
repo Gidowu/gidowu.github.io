@@ -21,10 +21,10 @@ author: Godwin Idowu
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Toolbox:
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Electronic Textiles course: "https://github.com/gidowu/gidowu.github.io"
-  Author's home: "https://github.com/gidowu"
+    - Course repo: "https://github.com/gidowu/gidowu.github.io"
+  Meet the Maker: "https://github.com/gidowu"
 
 ################
 # --- Logo --- #
