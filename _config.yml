@@ -21,9 +21,9 @@ author: Godwin Idowu
 
 navbar-links:
   About Me: "aboutme"
-  Toolbox:
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - Course repo: "https://github.com/gidowu/gidowu.github.io"
+  The Lab:
+    - Cheat Sheet: "https://www.markdowntutorial.com/"
+    - Source Code: "https://github.com/gidowu/gidowu.github.io"
   Connect:
     - GitHub: "https://github.com/gidowu"
     - LinkedIn: "https://www.linkedin.com/in/godwin-idowu-a798a1286/"
