@@ -19,6 +19,6 @@ I'm **Godwin Idowu**, a **senior** studying **Math and Computing**. I like probl
 Honestly? I want to learn how to build a "circuit board" out of thread. More specifically, I want to walk away knowing how to turn an idea into a soft, wearable prototype — something that lights up, senses, or reacts — sewn together with my own hands instead of soldered onto a board. Bonus goal: prove that a math major can also be crafty.
 
 ### One boring fact about me
-I can solve a quadratic equation in under 15 seconds. It has come up in conversation exactly never, but I stand ready.
+I can solve a quadratic equation in under 15 seconds. It has come up in conversation exactly never but I stand ready.
 
 Follow along as I (hopefully) go from "has never sewn a stitch" to "made a thing that blinks when you wear it."
