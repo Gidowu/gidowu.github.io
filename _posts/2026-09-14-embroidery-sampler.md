@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/sampler-front.jpg
 tags: [project, sampler, etextiles]
 ---
 
-Nine stitches, one hoop, zero prior sewing experience. Here's the circular sampler — running stitch, running stitch with small spaces, single-sided satin stitch, whip stitch, backstitch, blanket stitch, and cross stitch, plus two stitches I taught myself for this project: **split stitch** and **stem stitch**.
+Nine stitches, one hoop, zero prior sewing experience. Here's the circular sampler — running stitch, running stitch with small spaces, single-sided satin stitch, whip stitch, backstitch, blanket stitch, and cross stitch plus two stitches I taught myself for this project: **split stitch** and **stem stitch**.
 
 ### Front
 ![Front of embroidery sampler]({{ '/assets/img/sampler-front.jpg' | relative_url }})
