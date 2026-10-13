@@ -28,7 +28,7 @@ I would remind myself that a `while` loop keeps running as long as its condition
 
 For this assignment, I used `if` and `else if` statements together with `previousButton` to control when the LED turns on and off. I chose this approach because I needed the program to recognize a new button press without treating a held button as another press.
 
-Another way I could have done this was to use a `while` loop that waits until the button is released. That would also work for a simple program like this, but the problem is that the Arduino would stay inside that loop until I let go of the button.
+Another way I could have done this was to use a `while` loop that waits until the button is released. That would also work for a simple program like this but the problem is that the Arduino would stay inside that loop until I let go of the button.
 
 For example, if I wanted to add other lights that keep changing, like the fireflies from our earlier assignments, those lights might stop updating while the button is held. Using `if` statements avoids that because the program checks the button and continues through the rest of `loop()`.
 
