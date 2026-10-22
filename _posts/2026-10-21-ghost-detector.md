@@ -16,4 +16,4 @@ Here is the board with the alarm going off:
 
 ![The red lights on during the ghost alarm](/assets/img/ghost-detector-output.jpg)
 
-Tip for my past self: Don't just guess the numbers for "dark" and "cold." Find out what your sensors actually read in your own room first. Cover the light sensor with your hand and see how far the number drops and warm the temperature sensor with the warmth of your hand to see how much it moves. Every room is different so a guess is almost always wrong and once you know the real numbers the limits are easy to pick.
+**Tip for my past self:** Don't just guess the numbers for "dark" and "cold." Find out what your sensors actually read in your own room first. Cover the light sensor with your hand and see how far the number drops and warm the temperature sensor with the warmth of your hand to see how much it moves. Every room is different so a guess is almost always wrong and once you know the real numbers the limits are easy to pick.
