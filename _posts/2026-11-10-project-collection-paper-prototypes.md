@@ -10,11 +10,11 @@ The Night Owl Study Set is three small felt pieces that help with late-night stu
 
 ## Piece 1: Cup Cozy
 
-A felt sleeve that wraps around a mug. When the ends are snapped together, the snap closes a homemade switch. A temperature sensor on the inside touches the mug and the red and blue LEDs fade to show if the drink is hot or cold. A buzzer beeps when the drink is cool. The Arduino is sewn onto the outside. This piece uses both sides of the felt so there are two images.
+A felt sleeve that wraps around a mug. When the ends are snapped together, the snap closes a homemade switch. A temperature sensor on the inside touches the mug and the red and blue LEDs fade to show if the drink is hot or cold. The vibe board buzzes when the drink is cool. The Arduino is sewn onto the outside. This piece uses both sides of the felt so there are two images.
 
 **Right side (outside)**
 
-![Cup Cozy right side, with the Arduino, buzzer, red and blue LEDs, battery and snaps](/assets/img/cup-cozy-outside.png)
+![Cup Cozy right side, with the Arduino, vibe board, red and blue LEDs, battery and snaps](/assets/img/cup-cozy-outside.png)
 
 **Wrong side (inside)**
 
