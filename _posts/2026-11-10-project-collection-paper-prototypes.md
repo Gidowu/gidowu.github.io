@@ -22,7 +22,7 @@ A felt sleeve that wraps around a mug. When the ends are snapped together, the s
 
 ## Piece 2: Bookmark Buddy
 
-A felt bookmark with a built-in reading light. I swing the paperclip switch onto the conductive fabric patch and the LED lights up the page. It is a simple circuit with no Arduino. All the parts are on one side so there is only one image.
+A felt bookmark with a built-in reading light. I swing the paperclip switch onto the conductive fabric patch and the LED lights up the page. It is a simple circuit with no Arduino. All the parts are on one side, so there is only one image.
 
 ![Bookmark Buddy with the battery holder, paperclip switch and LED](/assets/img/bookmark-buddy.png)
 
