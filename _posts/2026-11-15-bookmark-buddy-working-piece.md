@@ -49,4 +49,4 @@ Before I sewed anything, I tested the circuit with three alligator clips. One cl
 ## Two tips for my past self
 
 1. **Keep the metal tips of your alligator clips apart.** My LED stayed dark at first because the two clips on it were touching each other. That skips the LED completely. Spread the clips so each one only touches its own hole.
-2. **Check the simple things first.** In my first test, the paperclip was lying a few inches away from the patch, so nothing happened. Before you worry about wiring, make sure the switch is really touching.
+2. **Check the simple things first.** In my first test, the paperclip was lying a few inches away from the patch, so nothing happened. Before you start changing the wiring, make sure the switch is really touching.
